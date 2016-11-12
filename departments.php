@@ -1,0 +1,27 @@
+<?php
+
+return [
+	'AAH' => 'Art History',
+	'ADA' => 'Dance',
+	'AFR' => 'Africana Studies',
+	'AIS' => 'Asian Studies',
+	'AMS' => 'American Studies',
+	'AMU' => 'Music',
+	'ATH' => 'Theater Arts',
+	'BCH' => 'Biochemistry',
+	'BIO' => 'Biology',
+	'BNG' => 'Bioengineering',
+	'CHM' => 'Chemistry',
+	'CHN' => 'Chinese',
+	'CSC' => 'Computer Science',
+	'FLM' => 'Film Studies',
+	'ITL' => 'Italian',
+	'JPN' => 'Japanese',
+	'MTH' => 'Mathematics',
+	'PHL' => 'Philosophy',
+	'PSC' => 'Political Science',
+	'PSY' => 'Psychology',
+	'RUS' => 'Russian',
+	'SOC' => 'Sociology',
+	'SPN' => 'Spanish',
+];
